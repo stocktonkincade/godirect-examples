@@ -23,4 +23,4 @@ You will need to get a copy of the examples to your computer through one of thes
 
 ## Work through the examples
 
-Now that you have everything you need to start talking to Go Direct devices using Python 3, start working through all of [**the provided examples**](./) as outlined.
+Walk through [**the provided examples**](./), now that you have everything you need to start talking to Go Direct devices using Python 3.
